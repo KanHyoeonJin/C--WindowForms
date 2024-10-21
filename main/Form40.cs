@@ -715,7 +715,8 @@ namespace main1
         private void Btn_back_Click(object sender, EventArgs e)
         {
             player.controls.stop();
-            form46.Show();
+            Form3 form3 = new Form3();
+            form3.Show();
             this.Close();
         }
     }

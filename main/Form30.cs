@@ -482,6 +482,7 @@ namespace main1
         private void btn_back_Click(object sender, EventArgs e)
         {
             Form3 form3 = new Form3();
+            player.controls.stop();
             form3.Show();
             this.Close();
         }

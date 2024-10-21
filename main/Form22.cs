@@ -260,6 +260,7 @@ namespace main1
 
         private void button9_Click(object sender, EventArgs e)
         {
+            player.controls.stop();
             Form3 form3 = new Form3();
             form3.Show();
             this.Close();
