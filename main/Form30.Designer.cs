@@ -1121,6 +1121,7 @@
             Controls.Add(button1);
             Controls.Add(button2);
             Name = "Form30";
+            StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen;
             Text = "Form1";
             Load += Form1_Load;
             panel1.ResumeLayout(false);

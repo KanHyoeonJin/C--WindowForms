@@ -71,6 +71,7 @@
             Controls.Add(Go_question3);
             DoubleBuffered = true;
             Name = "Form47";
+            StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen;
             Text = "Form7";
             Load += Form7_Load;
             ((System.ComponentModel.ISupportInitialize)pictureBox1).EndInit();

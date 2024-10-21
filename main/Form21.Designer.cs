@@ -702,6 +702,7 @@
             Controls.Add(panel2);
             Controls.Add(panel1);
             Name = "Form21";
+            StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen;
             Text = "Form21";
             ((System.ComponentModel.ISupportInitialize)pictureBox1).EndInit();
             ((System.ComponentModel.ISupportInitialize)pictureBox2).EndInit();

@@ -120,6 +120,7 @@
             Controls.Add(pictureBox2);
             Controls.Add(pictureBox1);
             Name = "Form31";
+            StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen;
             Text = "Form2";
             ((System.ComponentModel.ISupportInitialize)pictureBox1).EndInit();
             ((System.ComponentModel.ISupportInitialize)pictureBox2).EndInit();

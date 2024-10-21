@@ -561,6 +561,7 @@
             Controls.Add(h1);
             Controls.Add(panel1);
             Name = "Form22";
+            StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen;
             Text = "Form22";
             panel1.ResumeLayout(false);
             ((System.ComponentModel.ISupportInitialize)pictureBox1).EndInit();

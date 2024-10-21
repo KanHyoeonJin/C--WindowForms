@@ -30,7 +30,7 @@
         {
             SuspendLayout();
             // 
-            // Sucess
+            // Form41
             // 
             AutoScaleDimensions = new System.Drawing.SizeF(7F, 15F);
             AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
@@ -38,7 +38,8 @@
             BackgroundImageLayout = System.Windows.Forms.ImageLayout.Stretch;
             ClientSize = new System.Drawing.Size(434, 891);
             DoubleBuffered = true;
-            Name = "Sucess";
+            Name = "Form41";
+            StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen;
             Text = "Sucess";
             ResumeLayout(false);
         }

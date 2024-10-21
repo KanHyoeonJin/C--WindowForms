@@ -281,3 +281,7 @@ C:\Users\user\Documents\카카오톡 받은 파일\main\obj\Debug\net6.0-windows
 C:\Users\user\Documents\카카오톡 받은 파일\main\obj\Debug\net6.0-windows\main1.pdb
 C:\Users\user\Documents\카카오톡 받은 파일\main\obj\Debug\net6.0-windows\main1.genruntimeconfig.cache
 C:\Users\user\Documents\카카오톡 받은 파일\main\obj\Debug\net6.0-windows\ref\main1.dll
+C:\C#-Winforms\C--WindowForms\main\bin\Debug\net6.0-windows\Resources\sucess1.png
+C:\C#-Winforms\C--WindowForms\main\bin\Debug\net6.0-windows\Resources\sucess2.png
+C:\C#-Winforms\C--WindowForms\main\bin\Debug\net6.0-windows\Resources\sucess3.png
+C:\C#-Winforms\C--WindowForms\main\bin\Debug\net6.0-windows\Resources\sucess4.png

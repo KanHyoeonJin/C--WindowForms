@@ -128,6 +128,7 @@ namespace main1
             Controls.Add(All2);
             Controls.Add(All1);
             Name = "Form12";
+            StartPosition = FormStartPosition.CenterScreen;
             Text = "Form3";
             ((System.ComponentModel.ISupportInitialize)All1).EndInit();
             ((System.ComponentModel.ISupportInitialize)All2).EndInit();

@@ -471,7 +471,7 @@ namespace main1
             axWindowsMediaPlayer1.Size = new Size(75, 23);
             axWindowsMediaPlayer1.TabIndex = 22;
             // 
-            // Form1
+            // Form10
             // 
             AutoScaleDimensions = new SizeF(7F, 15F);
             AutoScaleMode = AutoScaleMode.Font;
@@ -501,7 +501,8 @@ namespace main1
             Controls.Add(pictureBox1);
             Controls.Add(button1);
             Controls.Add(axWindowsMediaPlayer1);
-            Name = "Form1";
+            Name = "Form10";
+            StartPosition = FormStartPosition.CenterScreen;
             Text = "Form1";
             Load += Form10_Load;
             ((System.ComponentModel.ISupportInitialize)pictureBox1).EndInit();

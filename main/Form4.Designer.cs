@@ -148,6 +148,7 @@
             Controls.Add(panel3);
             Controls.Add(panel1);
             Name = "Form4";
+            StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen;
             Text = "Form4";
             Load += Form4_Load;
             panel2.ResumeLayout(false);

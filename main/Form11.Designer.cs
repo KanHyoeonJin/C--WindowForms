@@ -62,14 +62,15 @@ namespace main1
             button2.UseVisualStyleBackColor = true;
             button2.Click += button2_Click;
             // 
-            // Form2
+            // Form11
             // 
             AutoScaleDimensions = new SizeF(7F, 15F);
             AutoScaleMode = AutoScaleMode.Font;
             ClientSize = new Size(434, 891);
             Controls.Add(button2);
             Controls.Add(button1);
-            Name = "Form2";
+            Name = "Form11";
+            StartPosition = FormStartPosition.CenterScreen;
             Text = "Form2";
             ResumeLayout(false);
         }

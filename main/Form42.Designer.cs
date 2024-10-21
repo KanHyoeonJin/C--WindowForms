@@ -171,6 +171,7 @@
             ClientSize = new System.Drawing.Size(413, 414);
             Controls.Add(panel1);
             Name = "Form42";
+            StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen;
             Text = "Hint";
             panel1.ResumeLayout(false);
             panel1.PerformLayout();

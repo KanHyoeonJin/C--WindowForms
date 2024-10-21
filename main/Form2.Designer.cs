@@ -49,6 +49,7 @@
             ClientSize = new System.Drawing.Size(733, 407);
             Controls.Add(axWindowsMediaPlayer1);
             Name = "Form2";
+            StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen;
             Text = "Form2";
             Load += Form2_Load;
             ((System.ComponentModel.ISupportInitialize)axWindowsMediaPlayer1).EndInit();

@@ -69,7 +69,7 @@ namespace main1
             // 
             // button7
             // 
-            button7.BackgroundImage = main1.Properties.Resources.늑대와_병아리;
+            button7.BackgroundImage = Resources.늑대와_병아리;
             button7.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Stretch;
             button7.FlatAppearance.BorderSize = 0;
             button7.FlatAppearance.MouseDownBackColor = System.Drawing.Color.Transparent;
@@ -84,7 +84,7 @@ namespace main1
             // 
             // button8
             // 
-            button8.BackgroundImage = Properties.Resources.KakaoTalk_20241015_104325742;
+            button8.BackgroundImage = Resources.KakaoTalk_20241015_104325742;
             button8.FlatAppearance.BorderSize = 0;
             button8.FlatAppearance.MouseDownBackColor = System.Drawing.Color.Transparent;
             button8.FlatAppearance.MouseOverBackColor = System.Drawing.Color.Transparent;
@@ -108,7 +108,7 @@ namespace main1
             // 
             // Pn_game2
             // 
-            Pn_game2.BackgroundImage = Properties.Resources.오른쪽;
+            Pn_game2.BackgroundImage = Resources.오른쪽;
             Pn_game2.Controls.Add(Btn_back);
             Pn_game2.Controls.Add(GotoHint);
             Pn_game2.Controls.Add(button1);
@@ -136,7 +136,7 @@ namespace main1
             // Btn_back
             // 
             Btn_back.BackColor = System.Drawing.Color.Transparent;
-            Btn_back.BackgroundImage = Properties.Resources.KakaoTalk_20241016_143440839_01;
+            Btn_back.BackgroundImage = Resources.KakaoTalk_20241016_143440839_01;
             Btn_back.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Stretch;
             Btn_back.Cursor = System.Windows.Forms.Cursors.Hand;
             Btn_back.FlatAppearance.MouseDownBackColor = System.Drawing.Color.FromArgb(0, 192, 192);
@@ -151,7 +151,7 @@ namespace main1
             // GotoHint
             // 
             GotoHint.BackColor = System.Drawing.Color.Transparent;
-            GotoHint.BackgroundImage = Properties.Resources.힌트;
+            GotoHint.BackgroundImage = Resources.힌트;
             GotoHint.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
             GotoHint.Location = new System.Drawing.Point(23, 381);
             GotoHint.Name = "GotoHint";
@@ -175,7 +175,7 @@ namespace main1
             // 
             // Btn_return
             // 
-            Btn_return.BackgroundImage = Properties.Resources.뗏목;
+            Btn_return.BackgroundImage = Resources.뗏목;
             Btn_return.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Stretch;
             Btn_return.Cursor = System.Windows.Forms.Cursors.Hand;
             Btn_return.Enabled = false;
@@ -217,7 +217,7 @@ namespace main1
             // btn_go
             // 
             btn_go.BackColor = System.Drawing.Color.Transparent;
-            btn_go.BackgroundImage = Properties.Resources.뗏목;
+            btn_go.BackgroundImage = Resources.뗏목;
             btn_go.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Stretch;
             btn_go.Cursor = System.Windows.Forms.Cursors.Hand;
             btn_go.Enabled = false;
@@ -235,7 +235,7 @@ namespace main1
             // 
             // Btn_chk_min2
             // 
-            Btn_chk_min2.BackgroundImage = Properties.Resources.진짜병아리;
+            Btn_chk_min2.BackgroundImage = Resources.진짜병아리;
             Btn_chk_min2.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Stretch;
             Btn_chk_min2.Cursor = System.Windows.Forms.Cursors.Hand;
             Btn_chk_min2.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
@@ -249,7 +249,7 @@ namespace main1
             // 
             // Btn_chk_min1
             // 
-            Btn_chk_min1.BackgroundImage = Properties.Resources.진짜병아리;
+            Btn_chk_min1.BackgroundImage = Resources.진짜병아리;
             Btn_chk_min1.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Stretch;
             Btn_chk_min1.Cursor = System.Windows.Forms.Cursors.Hand;
             Btn_chk_min1.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
@@ -264,7 +264,7 @@ namespace main1
             // btn_chk_add1
             // 
             btn_chk_add1.BackColor = System.Drawing.SystemColors.Control;
-            btn_chk_add1.BackgroundImage = Properties.Resources.진짜병아리;
+            btn_chk_add1.BackgroundImage = Resources.진짜병아리;
             btn_chk_add1.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Stretch;
             btn_chk_add1.Cursor = System.Windows.Forms.Cursors.Hand;
             btn_chk_add1.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
@@ -277,7 +277,7 @@ namespace main1
             // 
             // Btn_wolf_min1
             // 
-            Btn_wolf_min1.BackgroundImage = Properties.Resources.진짜늑대;
+            Btn_wolf_min1.BackgroundImage = Resources.진짜늑대;
             Btn_wolf_min1.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Stretch;
             Btn_wolf_min1.Cursor = System.Windows.Forms.Cursors.Hand;
             Btn_wolf_min1.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
@@ -292,7 +292,7 @@ namespace main1
             // btn_add_chk3
             // 
             btn_add_chk3.BackColor = System.Drawing.SystemColors.Control;
-            btn_add_chk3.BackgroundImage = Properties.Resources.진짜병아리;
+            btn_add_chk3.BackgroundImage = Resources.진짜병아리;
             btn_add_chk3.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Stretch;
             btn_add_chk3.Cursor = System.Windows.Forms.Cursors.Hand;
             btn_add_chk3.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
@@ -305,7 +305,7 @@ namespace main1
             // 
             // Btn_wolf_min2
             // 
-            Btn_wolf_min2.BackgroundImage = Properties.Resources.진짜늑대;
+            Btn_wolf_min2.BackgroundImage = Resources.진짜늑대;
             Btn_wolf_min2.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Stretch;
             Btn_wolf_min2.Cursor = System.Windows.Forms.Cursors.Hand;
             Btn_wolf_min2.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
@@ -320,7 +320,7 @@ namespace main1
             // btn_wolf_add2
             // 
             btn_wolf_add2.BackColor = System.Drawing.Color.Transparent;
-            btn_wolf_add2.BackgroundImage = Properties.Resources.진짜늑대;
+            btn_wolf_add2.BackgroundImage = Resources.진짜늑대;
             btn_wolf_add2.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Stretch;
             btn_wolf_add2.Cursor = System.Windows.Forms.Cursors.Hand;
             btn_wolf_add2.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
@@ -333,7 +333,7 @@ namespace main1
             // 
             // Btn_chk_min3
             // 
-            Btn_chk_min3.BackgroundImage = Properties.Resources.진짜병아리;
+            Btn_chk_min3.BackgroundImage = Resources.진짜병아리;
             Btn_chk_min3.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Stretch;
             Btn_chk_min3.Cursor = System.Windows.Forms.Cursors.Hand;
             Btn_chk_min3.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
@@ -348,7 +348,7 @@ namespace main1
             // btn_wolf_add1
             // 
             btn_wolf_add1.BackColor = System.Drawing.Color.Transparent;
-            btn_wolf_add1.BackgroundImage = Properties.Resources.진짜늑대;
+            btn_wolf_add1.BackgroundImage = Resources.진짜늑대;
             btn_wolf_add1.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Stretch;
             btn_wolf_add1.Cursor = System.Windows.Forms.Cursors.Hand;
             btn_wolf_add1.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
@@ -361,7 +361,7 @@ namespace main1
             // 
             // Btn_wolf_min3
             // 
-            Btn_wolf_min3.BackgroundImage = Properties.Resources.진짜늑대;
+            Btn_wolf_min3.BackgroundImage = Resources.진짜늑대;
             Btn_wolf_min3.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Stretch;
             Btn_wolf_min3.Cursor = System.Windows.Forms.Cursors.Hand;
             Btn_wolf_min3.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
@@ -376,7 +376,7 @@ namespace main1
             // btn_chk_add2
             // 
             btn_chk_add2.BackColor = System.Drawing.SystemColors.Control;
-            btn_chk_add2.BackgroundImage = Properties.Resources.진짜병아리;
+            btn_chk_add2.BackgroundImage = Resources.진짜병아리;
             btn_chk_add2.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Stretch;
             btn_chk_add2.Cursor = System.Windows.Forms.Cursors.Hand;
             btn_chk_add2.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
@@ -390,7 +390,7 @@ namespace main1
             // btn_wolf_add3
             // 
             btn_wolf_add3.BackColor = System.Drawing.Color.Transparent;
-            btn_wolf_add3.BackgroundImage = Properties.Resources.진짜늑대;
+            btn_wolf_add3.BackgroundImage = Resources.진짜늑대;
             btn_wolf_add3.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Stretch;
             btn_wolf_add3.Cursor = System.Windows.Forms.Cursors.Hand;
             btn_wolf_add3.FlatAppearance.BorderColor = System.Drawing.Color.Black;
@@ -405,7 +405,7 @@ namespace main1
             // PB_game1
             // 
             PB_game1.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Stretch;
-            PB_game1.Image = Properties.Resources.question4;
+            PB_game1.Image = Resources.question4;
             PB_game1.Location = new System.Drawing.Point(2, 3);
             PB_game1.Name = "PB_game1";
             PB_game1.Size = new System.Drawing.Size(431, 432);
@@ -422,6 +422,7 @@ namespace main1
             Controls.Add(button8);
             Controls.Add(button7);
             Name = "Form40";
+            StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen;
             Text = "Form1";
             panel1.ResumeLayout(false);
             Pn_game2.ResumeLayout(false);

@@ -57,7 +57,7 @@
             Script1.Size = new System.Drawing.Size(434, 892);
             Script1.TabIndex = 2;
             Script1.TabStop = false;
-            Script1.Click += this.Script1_Click;
+            Script1.Click += Script1_Click;
             // 
             // Form46
             // 
@@ -70,6 +70,7 @@
             Controls.Add(question2);
             DoubleBuffered = true;
             Name = "Form46";
+            StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen;
             Text = "Form6";
             ((System.ComponentModel.ISupportInitialize)Script1).EndInit();
             ResumeLayout(false);

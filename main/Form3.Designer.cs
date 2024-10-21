@@ -136,6 +136,7 @@
             Controls.Add(home2);
             Controls.Add(home1);
             Name = "Form3";
+            StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen;
             Text = "Form3";
             ((System.ComponentModel.ISupportInitialize)axWindowsMediaPlayer1).EndInit();
             ResumeLayout(false);

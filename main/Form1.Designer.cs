@@ -63,6 +63,7 @@
             Controls.Add(btnstart);
             Controls.Add(axWindowsMediaPlayer1);
             Name = "Form1";
+            StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen;
             Text = "Form1";
             Load += Form1_Load;
             ((System.ComponentModel.ISupportInitialize)axWindowsMediaPlayer1).EndInit();
