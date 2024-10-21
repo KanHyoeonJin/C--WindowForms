@@ -3,6 +3,7 @@ using System.Collections.Generic;
 using System.ComponentModel;
 using System.Data;
 using System.Drawing;
+using System.IO;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
@@ -15,11 +16,13 @@ namespace main1
     {
         private bool ques;
         WindowsMediaPlayer player;
+        private string videoPath;
         public Form46()
         {
             InitializeComponent();
+            videoPath = Path.Combine(Program.basePath, "Resources", "Town.mp3");
             player = new WindowsMediaPlayer();
-            player.URL = @"C:\Users\이대한\Desktop\main1\Resources\Town.mp3";
+            player.URL = videoPath;
             player.settings.setMode("loop",true);
             player.controls.play();
             Script1.Visible = false;
@@ -33,7 +36,9 @@ namespace main1
         {
             InitializeComponent();
             this.ques = ques;
+            videoPath = Path.Combine(Program.basePath, "Resources", "Town.mp3");
             player = new WindowsMediaPlayer();
+            player.URL = videoPath;
             Script1.Visible = false;
             this.ques = ques;
         }

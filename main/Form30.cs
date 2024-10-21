@@ -1,6 +1,7 @@
 ﻿using System;
 using System.Diagnostics;
 using System.Drawing;
+using System.IO;
 using System.Windows.Forms;
 using WMPLib;
 
@@ -18,11 +19,13 @@ namespace main1
         private int count = 0;
         private int a = 0;
         private WindowsMediaPlayer player = new WindowsMediaPlayer();
+        private string videoPath;
 
 
         public Form30()
         {
             InitializeComponent();
+            videoPath = Path.Combine(Program.basePath, "Resources", "questionBGM.mp3");
             player.settings.setMode("loop", true);
 
 
@@ -62,7 +65,7 @@ namespace main1
         {
             InitializeComponent();
             player.settings.setMode("loop", true);
-            player.URL = @"C:\Users\이대한\Desktop\main1\Resources\questionBGM.mp3";
+            player.URL = videoPath;
             player.controls.play();
             
             targetPictureBoxes = new PictureBox[] { p11, p12, p13, p14, p15, p16, p17, p18 };
@@ -102,7 +105,7 @@ namespace main1
             panel2.Visible = true;
             pictureBox1.Visible = true;
             pictureBox2.Visible = true;
-            player.URL = @"C:\Users\이대한\Desktop\main1\Resources\questionBGM.mp3";
+            player.URL = videoPath;
             player.controls.play();
             foreach (var target in targetPictureBoxes)
             {
@@ -129,7 +132,7 @@ namespace main1
         private void button1_Click(object sender, EventArgs e)
         {
             panel1.Visible = true;
-            player.URL = @"C:\Users\이대한\Desktop\main1\Resources\bin\questionBGM.mp3";
+            player.URL = videoPath;
             player.controls.play();
             foreach (var target in targetPictureBoxes)
             {
@@ -140,7 +143,7 @@ namespace main1
         private void button2_Click(object sender, EventArgs e)
         {
             panel1.Visible = true;
-            player.URL = @"C:\Users\이대한\Desktop\main1\Resources\questionBGM.mp3";
+            player.URL = videoPath;
             player.controls.play();
             foreach (var target in targetPictureBoxes)
             {

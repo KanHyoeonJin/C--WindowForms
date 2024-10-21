@@ -3,6 +3,7 @@ using System.Collections.Generic;
 using System.ComponentModel;
 using System.Data;
 using System.Drawing;
+using System.IO;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
@@ -15,10 +16,12 @@ namespace main1
     {
 
         private WindowsMediaPlayer player = new WindowsMediaPlayer();
+        private string videoPath;
         public Form4()
         {
             InitializeComponent();
-            player.URL = @"C:\Users\이대한\Desktop\main1\Resources\Town.mp3";
+            videoPath = Path.Combine(Program.basePath, "Resources", "Town.mp3");
+            player.URL = videoPath;
         }
 
         private void Form4_Load(object sender, EventArgs e)

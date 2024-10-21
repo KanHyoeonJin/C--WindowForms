@@ -10,6 +10,7 @@ using System.Windows.Forms;
 using System.Drawing.Text;
 using AxWMPLib;
 using WMPLib;
+using System.IO;
 
 
 namespace main1
@@ -29,14 +30,18 @@ namespace main1
         private int wolfRight;
         private int chkright;
         WindowsMediaPlayer player =new WindowsMediaPlayer();
+        private string videoPath;
+        private string fontPath;
         Font font;
         public Form40()
         {
 
             InitializeComponent();
+            videoPath = Path.Combine(Program.basePath, "Resources", "questionBGM.mp3");
+            fontPath = Path.Combine(Program.basePath, "Resources", "Font1.ttf");
             this.ActiveControl = null;
             PrivateFontCollection privateFont = new PrivateFontCollection();
-            privateFont.AddFontFile(@"C:\Users\이대한\Desktop\main1\Resources\Font1.ttf");
+            privateFont.AddFontFile(fontPath);
             font = new Font(privateFont.Families[0], 24f);
             this.selectedButttons = new List<Button>();
             this.selectedButttonsMin = new List<Button>();
@@ -57,10 +62,12 @@ namespace main1
         public Form40(Form46 form46)
         {
             InitializeComponent();
+            videoPath = Path.Combine(Program.basePath, "Resources", "questionBGM.mp3");
+            fontPath = Path.Combine(Program.basePath, "Resources", "Font1.ttf");
             this.form46 = form46;
             this.ActiveControl = null;
             PrivateFontCollection privateFont = new PrivateFontCollection();
-            privateFont.AddFontFile(@"C:\Users\이대한\Desktop\main1\Resources\Font1.ttf");
+            privateFont.AddFontFile(fontPath);
             font = new Font(privateFont.Families[0], 24f);
             this.selectedButttons = new List<Button>();
             this.selectedButttonsMin = new List<Button>();
@@ -83,7 +90,7 @@ namespace main1
             Pn_game2.Visible = true;
             button8.Visible = false;
             button7.Visible = false;
-            player.URL = @"C:\Users\이대한\Desktop\main1\Resources\questionBGM.mp3";
+            player.URL =videoPath;
             player.settings.setMode("loop", true);
             player.controls.play();
 
@@ -95,7 +102,7 @@ namespace main1
             Pn_game2.Visible = true;
             button8.Visible = false;
             button7.Visible = false;
-            player.URL = @"C:\Users\이대한\Desktop\main1\Resources\questionBGM.mp3";
+            player.URL = videoPath;
             player.settings.setMode("loop", true);
             player.controls.play();
         }

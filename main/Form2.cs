@@ -4,6 +4,7 @@ using System.Collections.Generic;
 using System.ComponentModel;
 using System.Data;
 using System.Drawing;
+using System.IO;
 using System.Linq;
 using System.Media;
 using System.Text;
@@ -15,17 +16,21 @@ namespace main1
 {
     public partial class Form2 : Form
     {
+       
+        string videoPath;
         
         public Form2()
         {
             InitializeComponent();
+            
+            videoPath = videoPath = Path.Combine(Program.basePath, "Resources", "시작.mp4");
             
         }
 
         private void Form2_Load(object sender, EventArgs e)
         {
             axWindowsMediaPlayer1.PlayStateChange += axWindowsMediaPlayer1_PlayStateChange;
-            axWindowsMediaPlayer1.URL = @"C:\Users\이대한\Desktop\main1\시작.mp4"; // 비디오 파일 경로 경로 자기 경로로 맞추기
+            axWindowsMediaPlayer1.URL =videoPath; // 비디오 파일 경로 경로 자기 경로로 맞추기
             axWindowsMediaPlayer1.Ctlcontrols.play();
 
 

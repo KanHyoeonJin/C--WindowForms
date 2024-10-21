@@ -1,5 +1,6 @@
 ﻿using System;
 using System.Drawing;
+using System.IO;
 using System.Windows.Forms;
 using WMPLib;
 
@@ -22,15 +23,19 @@ namespace main1
         WindowsMediaPlayer player = new WindowsMediaPlayer();
         WindowsMediaPlayer Wrong = new WindowsMediaPlayer();
         WindowsMediaPlayer correct = new WindowsMediaPlayer();
+        private string videoCorrect;
+        private string videoWrong;
+        private string videoPath;
        
         
         public Form21()
         {
             InitializeComponent();
             targetPictureBoxes = new PictureBox[] { p11, p12, p13, p14, p15, p16, p17 };
-
-            
-                player.URL = @"C:\Users\user\Desktop\main1 (2)\main1\Resources\susu.mp3";
+            videoPath = Path.Combine(Program.basePath, "Resources", "susu.mp3");
+            videoCorrect = Path.Combine(Program.basePath, "Resources", "correct.mp3");
+            videoWrong = Path.Combine(Program.basePath, "Resources", "Wrong.mp3");
+            player.URL = videoPath;
             
             
            
@@ -193,16 +198,16 @@ namespace main1
             if (result)
             {
                 
-                correct.URL = @"C:\Users\이대한\Desktop\main1\Resources\correct.mp3";
+                correct.URL = videoCorrect;
                
             }
             else if (!result)
             {
                 
-                Wrong.URL = @"C:\Users\이대한\Desktop\main1\ResourcesWrong.mp3";
+                Wrong.URL = videoWrong;
             }
            
-                player.URL = @"C:\Users\이대한\Desktop\main1\Resources\susu.mp3";
+                player.URL = videoPath;
             
             // 곱이 모두 같은지 확인
             result = CheckMultiplicationEquality();

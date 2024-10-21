@@ -3,6 +3,7 @@ using System.Collections.Generic;
 using System.ComponentModel;
 using System.Data;
 using System.Drawing;
+using System.IO;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
@@ -17,6 +18,8 @@ namespace main1
         private int currentImageIndex = 0;
         private WindowsMediaPlayer success = new WindowsMediaPlayer();
         private WindowsMediaPlayer failure = new WindowsMediaPlayer();
+        private string videoSuccess;
+        private string videoFailure;
         private bool result;
         public Form12(bool result)
         {
@@ -25,19 +28,20 @@ namespace main1
             timer = new System.Windows.Forms.Timer();
             timer.Interval = 1000; // 3초
             timer.Tick += Timer_Tick;
-
+            videoSuccess = Path.Combine(Program.basePath, "Resources", "correct.mp3");
+            videoFailure = Path.Combine(Program.basePath, "Resources", "Wrong.mp3");
             success.settings.setMode("loop", false);
             failure.settings.setMode("loop", false);
             if (result)
             {
                 timer.Interval = 850; // 0.75초
-                success.URL = @"C:\Users\이대한\Desktop\main1\Resources\correct.mp3";
+                success.URL = videoSuccess;
                 success.controls.play();
             }
             else
             {
                 timer.Interval = 1111; // 0.75초
-                failure.URL = @"C:\Users\이대한\Desktop\main1\Resources\Wrong.mp3";
+                failure.URL = videoFailure;
                 failure.controls.play();
             }
             HideAllPictures();

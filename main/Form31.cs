@@ -1,4 +1,5 @@
 ﻿using System;
+using System.IO;
 using System.Windows.Forms;
 using WMPLib;
 
@@ -12,6 +13,8 @@ namespace main1
         private int a;
         private WindowsMediaPlayer success = new WindowsMediaPlayer();
         private WindowsMediaPlayer failure = new WindowsMediaPlayer();
+        private string successPath;
+        private string failurePath;
         public Form31()
         {
             InitializeComponent();
@@ -21,6 +24,8 @@ namespace main1
         public Form31(int a, int count)
         {
             InitializeComponent();
+            successPath = Path.Combine(Program.basePath, "Resources", "correct.mp3");
+            failurePath = Path.Combine(Program.basePath, "Resources", "Wrong.mp3");
             timer = new Timer();
             timer.Interval =750; // 0.75초
             timer.Tick += Timer_Tick;
@@ -33,13 +38,13 @@ namespace main1
             if (a == 1 && count <=3)
             {
                 timer.Interval = 850; // 0.75초
-                success.URL = @"C:\Users\이대한\Desktop\main1\Resources\correct.mp3";
+                success.URL = successPath;
                 success.controls.play();
             }
             else
             {
                 timer.Interval = 1111; // 0.75초
-                failure.URL = @"C:\Users\이대한\Desktop\main1\Resources\Wrong.mp3";
+                failure.URL = failurePath;
                 failure.controls.play();
             }
             // 모든 PictureBox 숨기기

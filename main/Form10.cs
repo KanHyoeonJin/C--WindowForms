@@ -3,6 +3,7 @@ using System.Collections.Generic;
 using System.ComponentModel;
 using System.Data;
 using System.Drawing;
+using System.IO;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
@@ -14,12 +15,14 @@ namespace main1
 {
     public partial class Form10 : Form
     {
+        private string videoPath;
         public Form10()
         {
             InitializeComponent();
             moveTimer.Interval = 50;
             moveTimer.Tick += MoveCarAnimation;
-            axWindowsMediaPlayer1.URL = @"C:\Users\이대한\Desktop\c#Project\TeamProject\TeamProject\Resources\susu.mp3";
+            videoPath = Path.Combine(Program.basePath, "Resources", "susu.mp3");
+            axWindowsMediaPlayer1.URL = videoPath;
             axWindowsMediaPlayer1.settings.setMode("loop", true); // 반복 재생
             axWindowsMediaPlayer1.Ctlcontrols.play();
         }

@@ -3,6 +3,7 @@ using System.Collections.Generic;
 using System.ComponentModel;
 using System.Data;
 using System.Drawing;
+using System.IO;
 using System.Linq;
 using System.Runtime.InteropServices;
 using System.Text;
@@ -20,10 +21,17 @@ namespace main1
         WindowsMediaPlayer player = new WindowsMediaPlayer();
         WindowsMediaPlayer Wrong = new WindowsMediaPlayer();
         WindowsMediaPlayer correct = new WindowsMediaPlayer();
+        private string videoCorrect;
+        private string videoWrong;
+        private string videoPath;
+
         public Form22()
         {
             InitializeComponent();
-            player.URL = @"C:\Users\이대한\Desktop\main1\Resources\questionBGM.mp3";
+            videoPath = Path.Combine(Program.basePath, "Resources", "questionBGM.mp3");
+            videoCorrect = Path.Combine(Program.basePath, "Resources", "correct.mp3");
+            videoWrong = Path.Combine(Program.basePath, "Resources", "Wrong.mp3");
+            player.URL = videoPath;
 
             // 패널 초기 상태 설정: panel1과 panel2만 보이도록 설정
             panel1.Visible = true;
@@ -133,16 +141,16 @@ namespace main1
             if (isCorrect)
             {
 
-                correct.URL = @"C:\Users\이대한\Desktop\main1\Resources\correct.mp3";
+                correct.URL = videoCorrect;
 
             }
             else if (!isCorrect)
             {
 
-                Wrong.URL = @"C:\Users\이대한\Desktop\main1\ResourcesWrong.mp3";
+                Wrong.URL = videoWrong;
             }
 
-            player.URL = @"C:\Users\이대한\Desktop\main1\Resources\susu.mp3";
+            player.URL = videoPath;
         }
 
         private void OnTimerTick(object sender, EventArgs e)
