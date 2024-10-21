@@ -1,0 +1,174 @@
+C:\main1\bin\Debug\net6.0-windows\main1.exe
+C:\main1\bin\Debug\net6.0-windows\main1.deps.json
+C:\main1\bin\Debug\net6.0-windows\main1.runtimeconfig.json
+C:\main1\bin\Debug\net6.0-windows\main1.dll
+C:\main1\bin\Debug\net6.0-windows\main1.pdb
+C:\main1\obj\Debug\net6.0-windows\main1.Form1.resources
+C:\main1\obj\Debug\net6.0-windows\main1.Form2.resources
+C:\main1\obj\Debug\net6.0-windows\main1.Properties.Resources.resources
+C:\main1\obj\Debug\net6.0-windows\main1.csproj.GenerateResource.cache
+C:\main1\obj\Debug\net6.0-windows\main1.GeneratedMSBuildEditorConfig.editorconfig
+C:\main1\obj\Debug\net6.0-windows\main1.AssemblyInfoInputs.cache
+C:\main1\obj\Debug\net6.0-windows\main1.AssemblyInfo.cs
+C:\main1\obj\Debug\net6.0-windows\main1.csproj.CoreCompileInputs.cache
+C:\main1\obj\Debug\net6.0-windows\main1.dll
+C:\main1\obj\Debug\net6.0-windows\refint\main1.dll
+C:\main1\obj\Debug\net6.0-windows\main1.pdb
+C:\main1\obj\Debug\net6.0-windows\main1.genruntimeconfig.cache
+C:\main1\obj\Debug\net6.0-windows\ref\main1.dll
+C:\main1\bin\Debug\net6.0-windows\Interop.WMPLib.dll
+C:\main1\bin\Debug\net6.0-windows\AxInterop.WMPLib.dll
+C:\main1\obj\Debug\net6.0-windows\Interop.WMPLib.dll
+C:\main1\obj\Debug\net6.0-windows\AxInterop.WMPLib.dll
+C:\main1\obj\Debug\net6.0-windows\main1.csproj.ResolveComReference.cache
+C:\Users\user\Desktop\main1\main1\obj\Debug\net6.0-windows\Interop.WMPLib.dll
+C:\Users\user\Desktop\main1\main1\obj\Debug\net6.0-windows\AxInterop.WMPLib.dll
+C:\Users\user\Desktop\main1\main1\obj\Debug\net6.0-windows\main1.csproj.ResolveComReference.cache
+C:\Users\user\Desktop\main1\main1\obj\Debug\net6.0-windows\main1.Form1.resources
+C:\Users\user\Desktop\main1\main1\obj\Debug\net6.0-windows\main1.Form2.resources
+C:\Users\user\Desktop\main1\main1\obj\Debug\net6.0-windows\main1.Form3.resources
+C:\Users\user\Desktop\main1\main1\obj\Debug\net6.0-windows\main1.Properties.Resources.resources
+C:\Users\user\Desktop\main1\main1\obj\Debug\net6.0-windows\main1.csproj.GenerateResource.cache
+C:\Users\user\Desktop\main1\main1\obj\Debug\net6.0-windows\main1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\main1\main1\obj\Debug\net6.0-windows\main1.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\main1\main1\obj\Debug\net6.0-windows\main1.AssemblyInfo.cs
+C:\Users\user\Desktop\main1\main1\obj\Debug\net6.0-windows\main1.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\main1\main1\obj\Debug\net6.0-windows\main1.dll
+C:\Users\user\Desktop\main1\main1\obj\Debug\net6.0-windows\refint\main1.dll
+C:\Users\user\Desktop\main1\main1\obj\Debug\net6.0-windows\main1.pdb
+C:\Users\user\Desktop\main1\main1\bin\Debug\net6.0-windows\main1.exe
+C:\Users\user\Desktop\main1\main1\bin\Debug\net6.0-windows\main1.deps.json
+C:\Users\user\Desktop\main1\main1\bin\Debug\net6.0-windows\main1.runtimeconfig.json
+C:\Users\user\Desktop\main1\main1\bin\Debug\net6.0-windows\main1.dll
+C:\Users\user\Desktop\main1\main1\bin\Debug\net6.0-windows\main1.pdb
+C:\Users\user\Desktop\main1\main1\bin\Debug\net6.0-windows\Interop.WMPLib.dll
+C:\Users\user\Desktop\main1\main1\bin\Debug\net6.0-windows\AxInterop.WMPLib.dll
+C:\Users\user\Desktop\main1\main1\obj\Debug\net6.0-windows\main1.Form4.resources
+C:\Users\user\Desktop\main1\main1\obj\Debug\net6.0-windows\main1.Form5.resources
+C:\Users\user\Desktop\main1\main1\obj\Debug\net6.0-windows\main1.Form6.resources
+C:\Users\user\Desktop\main1\main1\obj\Debug\net6.0-windows\main1.genruntimeconfig.cache
+C:\Users\user\Desktop\main1\main1\obj\Debug\net6.0-windows\ref\main1.dll
+C:\Users\user\Desktop\main1\main1\obj\Debug\net6.0-windows\main1.Form7.resources
+C:\Users\user\Desktop\main1\main1\obj\Debug\net6.0-windows\main1.Form8.resources
+C:\Users\이대한\Documents\main1\bin\Debug\net6.0-windows\main1.exe
+C:\Users\이대한\Documents\main1\bin\Debug\net6.0-windows\main1.deps.json
+C:\Users\이대한\Documents\main1\bin\Debug\net6.0-windows\main1.runtimeconfig.json
+C:\Users\이대한\Documents\main1\bin\Debug\net6.0-windows\main1.dll
+C:\Users\이대한\Documents\main1\bin\Debug\net6.0-windows\main1.pdb
+C:\Users\이대한\Documents\main1\bin\Debug\net6.0-windows\Interop.WMPLib.dll
+C:\Users\이대한\Documents\main1\bin\Debug\net6.0-windows\AxInterop.WMPLib.dll
+C:\Users\이대한\Documents\main1\obj\Debug\net6.0-windows\Interop.WMPLib.dll
+C:\Users\이대한\Documents\main1\obj\Debug\net6.0-windows\AxInterop.WMPLib.dll
+C:\Users\이대한\Documents\main1\obj\Debug\net6.0-windows\main1.csproj.ResolveComReference.cache
+C:\Users\이대한\Documents\main1\obj\Debug\net6.0-windows\main1.Form1.resources
+C:\Users\이대한\Documents\main1\obj\Debug\net6.0-windows\main1.Form2.resources
+C:\Users\이대한\Documents\main1\obj\Debug\net6.0-windows\main1.Form3.resources
+C:\Users\이대한\Documents\main1\obj\Debug\net6.0-windows\main1.Form4.resources
+C:\Users\이대한\Documents\main1\obj\Debug\net6.0-windows\main1.Form5.resources
+C:\Users\이대한\Documents\main1\obj\Debug\net6.0-windows\main1.Form6.resources
+C:\Users\이대한\Documents\main1\obj\Debug\net6.0-windows\main1.Form7.resources
+C:\Users\이대한\Documents\main1\obj\Debug\net6.0-windows\main1.Form8.resources
+C:\Users\이대한\Documents\main1\obj\Debug\net6.0-windows\main1.Properties.Resources.resources
+C:\Users\이대한\Documents\main1\obj\Debug\net6.0-windows\main1.csproj.GenerateResource.cache
+C:\Users\이대한\Documents\main1\obj\Debug\net6.0-windows\main1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\이대한\Documents\main1\obj\Debug\net6.0-windows\main1.AssemblyInfoInputs.cache
+C:\Users\이대한\Documents\main1\obj\Debug\net6.0-windows\main1.AssemblyInfo.cs
+C:\Users\이대한\Documents\main1\obj\Debug\net6.0-windows\main1.csproj.CoreCompileInputs.cache
+C:\Users\이대한\Documents\main1\obj\Debug\net6.0-windows\main1.dll
+C:\Users\이대한\Documents\main1\obj\Debug\net6.0-windows\refint\main1.dll
+C:\Users\이대한\Documents\main1\obj\Debug\net6.0-windows\main1.pdb
+C:\Users\이대한\Documents\main1\obj\Debug\net6.0-windows\main1.genruntimeconfig.cache
+C:\Users\이대한\Documents\main1\obj\Debug\net6.0-windows\ref\main1.dll
+C:\Users\이대한\Documents\main1\obj\Debug\net6.0-windows\main1.Form10.resources
+C:\Users\이대한\Documents\main1\obj\Debug\net6.0-windows\main1.Form11.resources
+C:\Users\이대한\Documents\main1\obj\Debug\net6.0-windows\main1.Form12.resources
+C:\Users\이대한\Documents\main1\obj\Debug\net6.0-windows\main1.Properties.Resources1.resources
+C:\Users\이대한\Documents\main1\obj\Debug\net6.0-windows\main1.Form21.resources
+C:\Users\이대한\Documents\main1\obj\Debug\net6.0-windows\main1.Form22.resources
+C:\Users\이대한\Documents\main1\obj\Debug\net6.0-windows\main1.Form30.resources
+C:\Users\이대한\Documents\main1\obj\Debug\net6.0-windows\main1.Form31.resources
+C:\Users\이대한\Documents\main1\obj\Debug\net6.0-windows\main1.Form47.resources
+C:\Users\이대한\Desktop\main1\bin\Debug\net6.0-windows\main1.exe
+C:\Users\이대한\Desktop\main1\bin\Debug\net6.0-windows\main1.deps.json
+C:\Users\이대한\Desktop\main1\bin\Debug\net6.0-windows\main1.runtimeconfig.json
+C:\Users\이대한\Desktop\main1\bin\Debug\net6.0-windows\main1.dll
+C:\Users\이대한\Desktop\main1\bin\Debug\net6.0-windows\main1.pdb
+C:\Users\이대한\Desktop\main1\bin\Debug\net6.0-windows\Interop.WMPLib.dll
+C:\Users\이대한\Desktop\main1\bin\Debug\net6.0-windows\AxInterop.WMPLib.dll
+C:\Users\이대한\Desktop\main1\obj\Debug\net6.0-windows\Interop.WMPLib.dll
+C:\Users\이대한\Desktop\main1\obj\Debug\net6.0-windows\AxInterop.WMPLib.dll
+C:\Users\이대한\Desktop\main1\obj\Debug\net6.0-windows\main1.csproj.ResolveComReference.cache
+C:\Users\이대한\Desktop\main1\obj\Debug\net6.0-windows\main1.Form1.resources
+C:\Users\이대한\Desktop\main1\obj\Debug\net6.0-windows\main1.Form10.resources
+C:\Users\이대한\Desktop\main1\obj\Debug\net6.0-windows\main1.Form11.resources
+C:\Users\이대한\Desktop\main1\obj\Debug\net6.0-windows\main1.Form12.resources
+C:\Users\이대한\Desktop\main1\obj\Debug\net6.0-windows\main1.Form2.resources
+C:\Users\이대한\Desktop\main1\obj\Debug\net6.0-windows\main1.Form21.resources
+C:\Users\이대한\Desktop\main1\obj\Debug\net6.0-windows\main1.Form22.resources
+C:\Users\이대한\Desktop\main1\obj\Debug\net6.0-windows\main1.Form3.resources
+C:\Users\이대한\Desktop\main1\obj\Debug\net6.0-windows\main1.Form30.resources
+C:\Users\이대한\Desktop\main1\obj\Debug\net6.0-windows\main1.Form31.resources
+C:\Users\이대한\Desktop\main1\obj\Debug\net6.0-windows\main1.Form4.resources
+C:\Users\이대한\Desktop\main1\obj\Debug\net6.0-windows\main1.Form40.resources
+C:\Users\이대한\Desktop\main1\obj\Debug\net6.0-windows\main1.Form41.resources
+C:\Users\이대한\Desktop\main1\obj\Debug\net6.0-windows\main1.Form42.resources
+C:\Users\이대한\Desktop\main1\obj\Debug\net6.0-windows\main1.Form46.resources
+C:\Users\이대한\Desktop\main1\obj\Debug\net6.0-windows\main1.Form47.resources
+C:\Users\이대한\Desktop\main1\obj\Debug\net6.0-windows\main1.Form5.resources
+C:\Users\이대한\Desktop\main1\obj\Debug\net6.0-windows\main1.Form6.resources
+C:\Users\이대한\Desktop\main1\obj\Debug\net6.0-windows\main1.Form7.resources
+C:\Users\이대한\Desktop\main1\obj\Debug\net6.0-windows\main1.Form8.resources
+C:\Users\이대한\Desktop\main1\obj\Debug\net6.0-windows\main1.Properties.Resources.resources
+C:\Users\이대한\Desktop\main1\obj\Debug\net6.0-windows\main1.Properties.Resources3.resources
+C:\Users\이대한\Desktop\main1\obj\Debug\net6.0-windows\main1.csproj.GenerateResource.cache
+C:\Users\이대한\Desktop\main1\obj\Debug\net6.0-windows\main1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\이대한\Desktop\main1\obj\Debug\net6.0-windows\main1.AssemblyInfoInputs.cache
+C:\Users\이대한\Desktop\main1\obj\Debug\net6.0-windows\main1.AssemblyInfo.cs
+C:\Users\이대한\Desktop\main1\obj\Debug\net6.0-windows\main1.csproj.CoreCompileInputs.cache
+C:\Users\이대한\Desktop\main1\obj\Debug\net6.0-windows\main1.dll
+C:\Users\이대한\Desktop\main1\obj\Debug\net6.0-windows\refint\main1.dll
+C:\Users\이대한\Desktop\main1\obj\Debug\net6.0-windows\main1.pdb
+C:\Users\이대한\Desktop\main1\obj\Debug\net6.0-windows\main1.genruntimeconfig.cache
+C:\Users\이대한\Desktop\main1\obj\Debug\net6.0-windows\ref\main1.dll
+C:\Users\user\Desktop\main1 (2)\main1\bin\Debug\net6.0-windows\main1.exe
+C:\Users\user\Desktop\main1 (2)\main1\bin\Debug\net6.0-windows\main1.deps.json
+C:\Users\user\Desktop\main1 (2)\main1\bin\Debug\net6.0-windows\main1.runtimeconfig.json
+C:\Users\user\Desktop\main1 (2)\main1\bin\Debug\net6.0-windows\main1.dll
+C:\Users\user\Desktop\main1 (2)\main1\bin\Debug\net6.0-windows\main1.pdb
+C:\Users\user\Desktop\main1 (2)\main1\bin\Debug\net6.0-windows\Interop.WMPLib.dll
+C:\Users\user\Desktop\main1 (2)\main1\bin\Debug\net6.0-windows\AxInterop.WMPLib.dll
+C:\Users\user\Desktop\main1 (2)\main1\obj\Debug\net6.0-windows\Interop.WMPLib.dll
+C:\Users\user\Desktop\main1 (2)\main1\obj\Debug\net6.0-windows\AxInterop.WMPLib.dll
+C:\Users\user\Desktop\main1 (2)\main1\obj\Debug\net6.0-windows\main1.csproj.ResolveComReference.cache
+C:\Users\user\Desktop\main1 (2)\main1\obj\Debug\net6.0-windows\main1.Form1.resources
+C:\Users\user\Desktop\main1 (2)\main1\obj\Debug\net6.0-windows\main1.Form10.resources
+C:\Users\user\Desktop\main1 (2)\main1\obj\Debug\net6.0-windows\main1.Form11.resources
+C:\Users\user\Desktop\main1 (2)\main1\obj\Debug\net6.0-windows\main1.Form12.resources
+C:\Users\user\Desktop\main1 (2)\main1\obj\Debug\net6.0-windows\main1.Form2.resources
+C:\Users\user\Desktop\main1 (2)\main1\obj\Debug\net6.0-windows\main1.Form21.resources
+C:\Users\user\Desktop\main1 (2)\main1\obj\Debug\net6.0-windows\main1.Form22.resources
+C:\Users\user\Desktop\main1 (2)\main1\obj\Debug\net6.0-windows\main1.Form3.resources
+C:\Users\user\Desktop\main1 (2)\main1\obj\Debug\net6.0-windows\main1.Form30.resources
+C:\Users\user\Desktop\main1 (2)\main1\obj\Debug\net6.0-windows\main1.Form31.resources
+C:\Users\user\Desktop\main1 (2)\main1\obj\Debug\net6.0-windows\main1.Form4.resources
+C:\Users\user\Desktop\main1 (2)\main1\obj\Debug\net6.0-windows\main1.Form40.resources
+C:\Users\user\Desktop\main1 (2)\main1\obj\Debug\net6.0-windows\main1.Form41.resources
+C:\Users\user\Desktop\main1 (2)\main1\obj\Debug\net6.0-windows\main1.Form42.resources
+C:\Users\user\Desktop\main1 (2)\main1\obj\Debug\net6.0-windows\main1.Form46.resources
+C:\Users\user\Desktop\main1 (2)\main1\obj\Debug\net6.0-windows\main1.Form47.resources
+C:\Users\user\Desktop\main1 (2)\main1\obj\Debug\net6.0-windows\main1.Form5.resources
+C:\Users\user\Desktop\main1 (2)\main1\obj\Debug\net6.0-windows\main1.Form6.resources
+C:\Users\user\Desktop\main1 (2)\main1\obj\Debug\net6.0-windows\main1.Form7.resources
+C:\Users\user\Desktop\main1 (2)\main1\obj\Debug\net6.0-windows\main1.Form8.resources
+C:\Users\user\Desktop\main1 (2)\main1\obj\Debug\net6.0-windows\main1.Properties.Resources.resources
+C:\Users\user\Desktop\main1 (2)\main1\obj\Debug\net6.0-windows\main1.Properties.Resources3.resources
+C:\Users\user\Desktop\main1 (2)\main1\obj\Debug\net6.0-windows\main1.csproj.GenerateResource.cache
+C:\Users\user\Desktop\main1 (2)\main1\obj\Debug\net6.0-windows\main1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\main1 (2)\main1\obj\Debug\net6.0-windows\main1.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\main1 (2)\main1\obj\Debug\net6.0-windows\main1.AssemblyInfo.cs
+C:\Users\user\Desktop\main1 (2)\main1\obj\Debug\net6.0-windows\main1.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\main1 (2)\main1\obj\Debug\net6.0-windows\main1.dll
+C:\Users\user\Desktop\main1 (2)\main1\obj\Debug\net6.0-windows\refint\main1.dll
+C:\Users\user\Desktop\main1 (2)\main1\obj\Debug\net6.0-windows\main1.pdb
+C:\Users\user\Desktop\main1 (2)\main1\obj\Debug\net6.0-windows\main1.genruntimeconfig.cache
+C:\Users\user\Desktop\main1 (2)\main1\obj\Debug\net6.0-windows\ref\main1.dll
