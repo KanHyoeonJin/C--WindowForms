@@ -207,7 +207,7 @@ namespace main1
                 Wrong.URL = videoWrong;
             }
            
-                player.URL = videoPath;
+             
             
             // 곱이 모두 같은지 확인
             result = CheckMultiplicationEquality();
@@ -299,6 +299,9 @@ namespace main1
                     hideTimer.Dispose(); // 자원 해제
                 };
                 hideTimer.Start(); // 숨기는 타이머 시작
+                Form5 form = new Form5();
+                form.Show();
+                this.Close();
             }
         }
 

@@ -1513,6 +1513,16 @@ namespace main1.Properties {
         /// <summary>
         ///   System.Drawing.Bitmap 형식의 지역화된 리소스를 찾습니다.
         /// </summary>
+        internal static System.Drawing.Bitmap 힌트121 {
+            get {
+                object obj = ResourceManager.GetObject("힌트121", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   System.Drawing.Bitmap 형식의 지역화된 리소스를 찾습니다.
+        /// </summary>
         internal static System.Drawing.Bitmap 힌트2 {
             get {
                 object obj = ResourceManager.GetObject("힌트2", resourceCulture);
@@ -1526,6 +1536,16 @@ namespace main1.Properties {
         internal static System.Drawing.Bitmap 힌트21 {
             get {
                 object obj = ResourceManager.GetObject("힌트21", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   System.Drawing.Bitmap 형식의 지역화된 리소스를 찾습니다.
+        /// </summary>
+        internal static System.Drawing.Bitmap 힌트211 {
+            get {
+                object obj = ResourceManager.GetObject("힌트211", resourceCulture);
                 return ((System.Drawing.Bitmap)(obj));
             }
         }
@@ -1556,6 +1576,16 @@ namespace main1.Properties {
         internal static System.Drawing.Bitmap 힌트31 {
             get {
                 object obj = ResourceManager.GetObject("힌트31", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   System.Drawing.Bitmap 형식의 지역화된 리소스를 찾습니다.
+        /// </summary>
+        internal static System.Drawing.Bitmap 힌트311 {
+            get {
+                object obj = ResourceManager.GetObject("힌트311", resourceCulture);
                 return ((System.Drawing.Bitmap)(obj));
             }
         }

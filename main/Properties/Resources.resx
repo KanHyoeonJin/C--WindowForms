@@ -130,6 +130,9 @@
   <data name="성공4" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\성공4.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
+  <data name="11" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\11.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
   <data name="나중에풀기" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\나중에풀기.PNG;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
@@ -153,6 +156,9 @@
   </data>
   <data name="뗏목" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\뗏목.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="진짜늑대11" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\진짜늑대11.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
   <data name="All21" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\All21.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
@@ -205,11 +211,11 @@
   <data name="힌트31" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\힌트31.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
-  <data name="해결1" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\해결1.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  <data name="river11" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\river12.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
-  <data name="6번" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\6번.PNG;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  <data name="19Quiz1" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\19Quiz11.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
   <data name="sucess4" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\sucess4.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
@@ -231,9 +237,6 @@
   </data>
   <data name="9번" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\9번.PNG;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
-  <data name="river11" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\river12.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
   <data name="중세시대" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\중세시대.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
@@ -295,8 +298,8 @@
   <data name="KakaoTalk_20241016_160358316" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\KakaoTalk_20241016_160358316.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
-  <data name="KakaoTalk_20241015_182034846" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\KakaoTalk_20241015_182034846.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  <data name="늑대와 병아리" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\늑대와 병아리.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
   <data name="hidden" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\hidden.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
@@ -319,6 +322,9 @@
   <data name="sucess11" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\sucess1.bmp;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
+  <data name="머리가생이" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\머리가생이.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
   <data name="실패3" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\실패3.PNG;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
@@ -330,9 +336,6 @@
   </data>
   <data name="True1" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\True11.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
-  <data name="sucess1" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\sucess1.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
   <data name="병아리-removebg-preview" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\병아리-removebg-preview.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
@@ -403,6 +406,9 @@
   <data name="Second1" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\Second.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
+  <data name="326_497_486-removebg-preview" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\326_497_486-removebg-preview.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
   <data name="128번 캐럿" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\128번 캐럿.PNG;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
@@ -414,6 +420,9 @@
   </data>
   <data name="bar" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\bar.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Black2" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Black21.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
   <data name="script1_1" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\script1_1.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
@@ -439,17 +448,14 @@
   <data name="성공3" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\성공3.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
-  <data name="11" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\11.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  <data name="해결1" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\해결1.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
   <data name="128번 지문" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\128번 지문.PNG;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
   <data name="힌트2" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\힌트2.PNG;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
-  <data name="Hint2_Text2" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\Hint2_Text21.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
   <data name="128번" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\128번.PNG;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
@@ -460,11 +466,8 @@
   <data name="5번" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\5번.PNG;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
-  <data name="1번" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\1번.PNG;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
-  <data name="힌트1_1" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\힌트1_1.PNG;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  <data name="KakaoTalk_20241015_182034846" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\KakaoTalk_20241015_182034846.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
   <data name="False1" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\False11.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
@@ -490,8 +493,8 @@
   <data name="KakaoTalk_20241016_160851351" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\KakaoTalk_20241016_160851351.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
-  <data name="늑대와 병아리" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\늑대와 병아리.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  <data name="1번" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\1번.PNG;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
   <data name="All11" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\All12.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
@@ -511,14 +514,20 @@
   <data name="KakaoTalk_20241016_143440839_03" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\KakaoTalk_20241016_143440839_03.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
-  <data name="Black2" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\Black21.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  <data name="Hint2_Text2" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Hint2_Text21.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="힌트311" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\힌트31.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
   <data name="다시하기" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\다시하기.PNG;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
   <data name="힌트3" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\힌트3.PNG;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="힌트211" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\힌트21.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
   <data name="inBuilding1" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\inBuilding1.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
@@ -532,8 +541,8 @@
   <data name="Car1" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\Car11.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
-  <data name="머리가생이" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\머리가생이.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  <data name="6번" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\6번.PNG;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
   <data name="KakaoTalk_20241016_143440839_01" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\KakaoTalk_20241016_143440839_01.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
@@ -559,16 +568,16 @@
   <data name="Hint3_Text2" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\Hint3_Text21.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
-  <data name="19Quiz1" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\19Quiz11.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  <data name="sucess1" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\sucess1.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
   <data name="해결2" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\해결2.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
-  <data name="326_497_486-removebg-preview" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\326_497_486-removebg-preview.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  <data name="힌트1_1" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\힌트1_1.PNG;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
-  <data name="진짜늑대11" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\진짜늑대11.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  <data name="힌트121" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\힌트12.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
 </root>

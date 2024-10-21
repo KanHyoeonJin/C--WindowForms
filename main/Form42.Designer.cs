@@ -76,9 +76,9 @@
             // 
             // Hint3
             // 
-            Hint3.BackgroundImage = Properties.Resources.힌트3;
+            Hint3.BackgroundImage = Properties.Resources.힌트311;
             Hint3.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Stretch;
-            Hint3.Location = new System.Drawing.Point(1, 34);
+            Hint3.Location = new System.Drawing.Point(0, 33);
             Hint3.Name = "Hint3";
             Hint3.Size = new System.Drawing.Size(410, 380);
             Hint3.TabIndex = 6;
@@ -86,9 +86,9 @@
             // 
             // Hint2
             // 
-            Hint2.BackgroundImage = Properties.Resources.힌트2;
+            Hint2.BackgroundImage = Properties.Resources.힌트211;
             Hint2.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Stretch;
-            Hint2.Location = new System.Drawing.Point(1, 34);
+            Hint2.Location = new System.Drawing.Point(1, 35);
             Hint2.Name = "Hint2";
             Hint2.Size = new System.Drawing.Size(410, 380);
             Hint2.TabIndex = 5;
@@ -156,7 +156,7 @@
             // 
             // Hint1
             // 
-            Hint1.BackgroundImage = Properties.Resources.힌트11;
+            Hint1.BackgroundImage = Properties.Resources.힌트121;
             Hint1.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Stretch;
             Hint1.Location = new System.Drawing.Point(-1, 33);
             Hint1.Name = "Hint1";
@@ -168,7 +168,7 @@
             // 
             AutoScaleDimensions = new System.Drawing.SizeF(7F, 15F);
             AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            ClientSize = new System.Drawing.Size(415, 414);
+            ClientSize = new System.Drawing.Size(413, 414);
             Controls.Add(panel1);
             Name = "Form42";
             Text = "Hint";
